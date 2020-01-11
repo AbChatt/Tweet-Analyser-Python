@@ -1,0 +1,16 @@
+one:
+20181108132750,Unknown Location,Twitter for Android,0,5
+first tweet line one
+<<<EOT
+20181108132751,Unknown Location,Twitter for Android,1,6
+second tweet line one
+
+third line skipped space
+forth line, trick:
+<<<EOT
+two:
+20181108132752,Unknown Location,Twitter,2,7
+first tweet line one user 2
+<<<EOT
+three:
+four:
